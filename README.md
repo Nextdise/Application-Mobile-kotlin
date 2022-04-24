@@ -1,9 +1,19 @@
 # Application-Mobile-kotlin
 
-Groupe : Sanchez Raphaël (Projet fait seul)
+Présantation du projet Mobile Ynov Aix Campus
 
-Le projet est un projet de classe ou nous devions crée une petite application mobile,
-j'ai incorporé deux fonctionnalités, une liste a idée (ou do to list) et une calculatrice
+*Technologies utilisées:*
+- Android Studio, Kotlin, Téléphone Android
+
+*Groupe (Projet fait seul):*
+- Sanchez Raphaël 
+
+*Auteur du ReadMe:*
+- Sanchez Raphaël
+
+
+Le projet est un projet de cours ou nous devions crée une petite application mobile,
+j'ai incorporé deux fonctionnalités, une liste a idée (ou ToDo list) et une calculatrice
 
 ![fonctionalité](https://user-images.githubusercontent.com/73243802/164997721-e4e391a3-ddd1-45df-b71f-aa3bfe45fb17.PNG)
 
